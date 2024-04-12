@@ -1,5 +1,5 @@
 
-# Домашняя работа МОДУЛЬ EDA-5: "Статистические тесты в контексте EDA"
+# Домашняя работа МОДУЛЬ EDA-5: "Планирование эксперимента и логирование изменений в Comet.ml."
 ## Оглавление
 [1. Описание проекта](https://github.com/MrMonkeyfeeder/Project_comet/tree/master/README.md#Описание-проекта)  
 [2. Какой кейс решаем?](https://github.com/MrMonkeyfeeder/Project_comet/tree/master/README.md#Какой-кейс-решаем)  
